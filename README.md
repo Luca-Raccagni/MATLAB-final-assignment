@@ -1,5 +1,5 @@
 # MATLAB-final-assignment
-Final assignment for the course of Introduction to Computer Programming (MATLAB), by professor Scott Fairhall Lawrence. It is a program designed to teach kids spelling and writing in english. 
+Final assignment for the course of Introduction to Computer Programming (MATLAB), with professor Scott Fairhall Lawrence. It is a program designed to teach kids spelling and writing in english. 
 
 # What the code does
 It substantialy consists of a home screen where the user can decide which of the three exercises to practice (with the option to practice previous mistakes as well) and a part that keeps track of the accuracy across the different trials of the exercises and stores the data in a table. 
