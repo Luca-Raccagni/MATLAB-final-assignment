@@ -8,4 +8,4 @@ It substantialy consists of a home screen where the user can decide which of the
 Tested on MATLAB Version 25.2 (R2025b), Psychtoolbox Version 3.0.19. 
 
 # How to run the code
-Simply open the file "MATLAB_FINAL_LucaRaccagni.m" in MATLAB.
+Look for the "MATLAB_FINAL_LucaRaccagni.m" file in the folder "FINAL_LucaRaccagni" and open it in MATLAB (the audios and images need to be in the same folder as the .m file, as given in the .zip folder).
