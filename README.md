@@ -1,2 +1,11 @@
 # MATLAB-final-assignment
-Final assignment for the course of Introduction to Computer Programming (MATLAB). It's a short program that contains three exercises to teach children spelling and writing in english.
+Final assignment for the course of Introduction to Computer Programming (MATLAB), by professor Scott Fairhall Lawrence. It is a program designed to teach kids spelling and writing in english. 
+
+# What the code does
+It substantialy consists of a home screen where the user can decide which of the three exercises to practice (with the option to practice previous mistakes as well) and a part that keeps track of the accuracy across the different trials of the exercises and stores the data in a table. 
+
+# Requirements
+Tested on MATLAB Version 25.2 (R2025b), Psychtoolbox Version 3.0.19. 
+
+# How to run the code
+Simply open the file "MATLAB_FINAL_LucaRaccagni.m" in MATLAB.
